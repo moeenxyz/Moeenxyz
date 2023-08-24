@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/moeenxyz" target="blank"><img src="https://img.shields.io/twitter/follow/moeenxyz?logo=twitter&style=for-the-badge" alt="moeenxyz" /></a> </p>
 
-- 📝 I regularly write articles on [https://twitter.com/moeenxyz](https://twitter.com/moeenxyz)
+- 📝 I regularly write articles on [My Twitter](https://twitter.com/moeenxyz)
 
 - 📄 Know about my experiences [https://moeen.xyz](https://moeen.xyz)
 
