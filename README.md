@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moeen</h1>
-<h3 align="center">#BUIDL #Web3 Believer ¦ Photographer ¦ Drone pilot ¦</h3>
+<h3 align="center">Product/ Technical Manager focused on AI-powered and agentic applications | Web3 Builder</h3>
 
 <p align="left"> <a href="https://twitter.com/moeenxyz" target="blank"><img src="https://img.shields.io/twitter/follow/moeenxyz?logo=twitter&style=for-the-badge" alt="moeenxyz" /></a> </p>
 
